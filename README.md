@@ -1,2 +1,2 @@
 # CSE4022-Natural-Language-Processing
-CSE4022-Natural Language Processing Lab Work
+Natural Language Processing Lab Work-All hands on session related to NLP
